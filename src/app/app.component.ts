@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css'],
 })
 export class AppComponent {
-  title:string = 'Welcome to Johns Hopkins University Baseball Analysis Database';
+  title:string = 'Baseball Query Engine';
 }
